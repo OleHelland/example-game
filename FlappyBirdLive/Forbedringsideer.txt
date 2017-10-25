@@ -1,0 +1,6 @@
+FORBEDRINGSIDEER:
+
+* Lag en metode som kaller på movement.
+	- Legg til alternative knapper (Space og mer istedenfor museklikk)
+* Musikk-stems!
+* Portrait-mode
